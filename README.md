@@ -146,3 +146,28 @@ The Missing Semester of Your CS Education
 Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 Students spend hundreds of hours using these tools over the course of their education (and thousands over their career), so it makes sense to make the experience as fluid and frictionless as possible. Mastering these tools not only enables you to spend less time on figuring out how to bend your tools to your will, but it also lets you solve problems that would previously seem impossibly complex.
+
+## 3.2 Reddit comment
+LessonStudio
+•
+2年前
+If I were teaching a "finishing school" CS course I would go ultra-mega-super-duper full stack.
+如果我要开设一门“完形教育”的 CS 课程，我会选择超全栈。
+
+I'm talking, an FPGA, talking to an embedded processor, talking meshed wifi to something like a Pi, talking over the net, to a containerized server with some databases, a little ML, etc, talking to a web app, a desktop app, and both and android and ios app, which talks to an embedded device with a blinking light and a button.
+我指的是，一个 FPGA 与嵌入式处理器通信，通过网状 Wi-Fi 与类似 Pi 的设备通信，通过网络与容器化服务器和一些数据库、一点机器学习等进行通信，与 Web 应用、桌面应用以及 Android 和 iOS 应用通信，这些应用与一个带有闪烁灯和按钮的嵌入式设备通信。
+
+I'm not talking some great huge complex app. Maybe the FPGA monitors a rotary encoder and has a blinking light. The basic data then goes up and down in the network and the embedded device and apps display the rotary encoder data and they, in turn, control the blinking light.
+我说的不是某个庞大复杂的应用程序。也许 FPGA 监控一个旋转编码器并有一个闪烁灯。基本数据随后在网络和嵌入式设备以及应用中上下传输，这些应用显示旋转编码器数据，并反过来控制闪烁灯。
+
+The idea is that the whole thing requires being happy to use many different development environments, different languages, different protocols, etc.
+这个想法是，整个事情需要能够愉快地使用许多不同的开发环境、不同的语言、不同的协议等等。
+
+Then give extra points if they do things like backups, version control, unit tests, and proper security.
+如果他们还做了像备份、版本控制、单元测试和适当的安全措施这样的工作，那么可以额外加分。
+
+Importantly, this would teach students how to piece together a large architecture; and how there are often gotchas such as devices disconnecting randomly, etc.
+重要的是，这将教会学生如何拼凑一个大型架构；以及常常会遇到一些意外情况，比如设备随机断开连接等等。
+
+Yet, the above might only have a few hundred lines of code.
+然而，上述内容可能只有几百行代码。
